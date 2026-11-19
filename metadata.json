@@ -1,0 +1,6 @@
+{
+  "name": "IoTHome — Your Smart Living Partner",
+  "description": "Toko perangkat smart home modern Indonesia: berbagai jenis CCTV pintar, lampu otomatis, kontrol AC, dan kunci biometrik dengan pelacakan pesanan hingga paket tiba serta konsultasi WhatsApp.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
